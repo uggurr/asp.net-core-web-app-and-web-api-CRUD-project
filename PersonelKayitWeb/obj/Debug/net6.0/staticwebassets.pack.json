@@ -1,0 +1,833 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\PersonelKayitWeb.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PersonelKayitWeb.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap5.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap5.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bulma.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bulma.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.bulma.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.bulma.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.foundation.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.foundation.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.foundation.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.foundation.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.jqueryui.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.jqueryui.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.jqueryui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.jqueryui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.semanticui.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.semanticui.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\dataTables.semanticui.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\dataTables.semanticui.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\jquery.dataTables.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\jquery.dataTables.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\css\\jquery.dataTables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\css\\jquery.dataTables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_asc.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_asc.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_asc_disabled.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_asc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_both.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_both.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_desc.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_desc.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\images\\sort_desc_disabled.png",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\images\\sort_desc_disabled.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap5.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap5.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bulma.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bulma.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.bulma.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.bulma.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.foundation.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.foundation.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.foundation.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.foundation.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.jqueryui.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.jqueryui.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.jqueryui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.jqueryui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.semanticui.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.semanticui.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\dataTables.semanticui.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\dataTables.semanticui.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\DataTables-1.13.8\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\DataTables-1.13.8\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\datatables.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\datatables.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\datatables.min.css",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\DataTables\\datatables.min.js",
+      "PackagePath": "staticwebassets\\DataTables\\datatables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\0682b506-d9ac-4ba1-ba1b-a553bf0954ebmac.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\0682b506-d9ac-4ba1-ba1b-a553bf0954ebmac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\0e796892-c43c-4ca6-a61c-e382b77acb01hapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\0e796892-c43c-4ca6-a61c-e382b77acb01hapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\11b1e6d1-89e1-4a0c-8de7-c3b99966f3eahapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\11b1e6d1-89e1-4a0c-8de7-c3b99966f3eahapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\14448bc4-9453-41f6-85a7-deb315183737computerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\14448bc4-9453-41f6-85a7-deb315183737computerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\14562549-9fba-4df3-a97c-ab33b1f48d18computerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\14562549-9fba-4df3-a97c-ab33b1f48d18computerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\15ad819d-1070-4649-b45b-1cdbfb3c8be3hapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\15ad819d-1070-4649-b45b-1cdbfb3c8be3hapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\197fc858-8e99-4e4e-a881-30cade4b5566hapyNewYearMedium.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\197fc858-8e99-4e4e-a881-30cade4b5566hapyNewYearMedium.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\1c6846fa-868a-499a-935c-56749c9de185hapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\1c6846fa-868a-499a-935c-56749c9de185hapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\1ea59afb-77d2-442f-b790-da330a7db126OrsaSoftSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\1ea59afb-77d2-442f-b790-da330a7db126OrsaSoftSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\1f536531-d90f-4874-acb1-ba0e04d866a2computerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\1f536531-d90f-4874-acb1-ba0e04d866a2computerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\24f8de90-5fe3-4fcd-9aa1-13ed4d355c81computerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\24f8de90-5fe3-4fcd-9aa1-13ed4d355c81computerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\25cdaad2-61fd-4cf8-8f4b-0e8511ee731dmacMedium.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\25cdaad2-61fd-4cf8-8f4b-0e8511ee731dmacMedium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\27d9dce8-5d48-402d-b082-80f5d0c9bd56computerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\27d9dce8-5d48-402d-b082-80f5d0c9bd56computerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\29c7f00c-2466-4cca-bcfd-442e3dfb12e3OrsaSoft.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\29c7f00c-2466-4cca-bcfd-442e3dfb12e3OrsaSoft.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\2b79825c-4108-4e89-a11f-6dc3818be527computerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\2b79825c-4108-4e89-a11f-6dc3818be527computerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\2c01bfb4-9288-4662-a78f-be27b5578715hapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\2c01bfb4-9288-4662-a78f-be27b5578715hapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\2ee0e1f7-7e40-4811-b3e6-e8be6ca5210ehapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\2ee0e1f7-7e40-4811-b3e6-e8be6ca5210ehapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\2f121b2b-a798-4f63-bfa2-1543ac6ead55hapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\2f121b2b-a798-4f63-bfa2-1543ac6ead55hapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\2f1c0fe0-b58f-4bc3-b00c-75feb242bbe6hapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\2f1c0fe0-b58f-4bc3-b00c-75feb242bbe6hapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\300ae2c8-eaf9-407f-82cb-96515792ebabphoto1.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\300ae2c8-eaf9-407f-82cb-96515792ebabphoto1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\32b5a1ce-e29d-4f95-84ef-c1ffa1bd3976photo1.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\32b5a1ce-e29d-4f95-84ef-c1ffa1bd3976photo1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\3786fc82-2907-4944-bf6a-71f04ac67827hapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\3786fc82-2907-4944-bf6a-71f04ac67827hapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\3d51a055-4a28-434d-9176-ab02efde4782hapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\3d51a055-4a28-434d-9176-ab02efde4782hapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\3fc3dc38-dfc9-4e29-885d-5a10cc1081f5hapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\3fc3dc38-dfc9-4e29-885d-5a10cc1081f5hapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\41032c53-7c43-4072-a604-88acb715ac74hapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\41032c53-7c43-4072-a604-88acb715ac74hapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\43098efb-325f-4e71-885c-5f94df026fbbmacSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\43098efb-325f-4e71-885c-5f94df026fbbmacSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\455d2681-0a7d-4277-9f18-9d1844e0a959computerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\455d2681-0a7d-4277-9f18-9d1844e0a959computerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\4600431b-7566-47f9-834a-15a7b50c01b1hapyNewYearMedium.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\4600431b-7566-47f9-834a-15a7b50c01b1hapyNewYearMedium.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\4b36e9c1-c213-411f-bca1-1b67bdb07ac4macSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\4b36e9c1-c213-411f-bca1-1b67bdb07ac4macSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\4b8e5b23-2fd0-4deb-bd2b-53c2db90fb52hapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\4b8e5b23-2fd0-4deb-bd2b-53c2db90fb52hapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\4ec36f4f-0891-43b3-a3a4-3671d446d2cbhapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\4ec36f4f-0891-43b3-a3a4-3671d446d2cbhapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\4fa6d712-71f6-4afa-b086-e5a1243484d8computerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\4fa6d712-71f6-4afa-b086-e5a1243484d8computerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\55bdac33-f348-45fe-b9ce-d76105372775hapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\55bdac33-f348-45fe-b9ce-d76105372775hapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\572385e7-f9e5-44c0-91c6-2934022d6d7cmacSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\572385e7-f9e5-44c0-91c6-2934022d6d7cmacSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\57394134-7379-4813-98ec-633c988c865ccomputerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\57394134-7379-4813-98ec-633c988c865ccomputerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\5e2edc1a-5183-4e8e-97a0-a67eb9e56357computerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\5e2edc1a-5183-4e8e-97a0-a67eb9e56357computerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\5fcaafa7-3f2a-4d58-96ed-892625ad455ccomputer.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\5fcaafa7-3f2a-4d58-96ed-892625ad455ccomputer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\6341573f-3208-4af8-a2d3-0bdfb6c8c58chapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\6341573f-3208-4af8-a2d3-0bdfb6c8c58chapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\69ec9487-c2b5-4717-939a-82c7efd4cd7ephoto4.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\69ec9487-c2b5-4717-939a-82c7efd4cd7ephoto4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\6aa8174c-cf59-4eb0-baed-16f44460e6f2computerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\6aa8174c-cf59-4eb0-baed-16f44460e6f2computerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\6ed1626a-8236-4f4a-ada9-1a31a934b6cbhapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\6ed1626a-8236-4f4a-ada9-1a31a934b6cbhapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\6f0afe29-76db-4395-8cd5-1ed2aa770308hapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\6f0afe29-76db-4395-8cd5-1ed2aa770308hapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\77b53051-d824-4907-993a-72cd09579e3dhapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\77b53051-d824-4907-993a-72cd09579e3dhapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\7d2e90fc-8d7d-4fee-9151-8b149e9b71eamac.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\7d2e90fc-8d7d-4fee-9151-8b149e9b71eamac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\7e425c0c-2332-46e9-bd96-70e9809dc11fhapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\7e425c0c-2332-46e9-bd96-70e9809dc11fhapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\7ef62f99-5a1a-4437-9fa8-35591651c23ehapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\7ef62f99-5a1a-4437-9fa8-35591651c23ehapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\8350068b-dae4-43ad-a9b5-b87865e2c96chapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\8350068b-dae4-43ad-a9b5-b87865e2c96chapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\844443fa-a586-42e9-847c-bbf869bc2563computerMedium.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\844443fa-a586-42e9-847c-bbf869bc2563computerMedium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\84de30ea-691d-471b-95a5-db0ce03e5afdOrsaSoft.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\84de30ea-691d-471b-95a5-db0ce03e5afdOrsaSoft.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\869b9d5d-3111-4f28-9a15-c7e4dda5e95fcomputerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\869b9d5d-3111-4f28-9a15-c7e4dda5e95fcomputerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\88d57c04-86cf-4744-9a1f-b0550dba2bb1mac.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\88d57c04-86cf-4744-9a1f-b0550dba2bb1mac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\8e1553d7-2de9-41cc-95a2-585c0c591203hapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\8e1553d7-2de9-41cc-95a2-585c0c591203hapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\935d668b-bdee-4fc0-a6b4-f897e605cf57computerMedium.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\935d668b-bdee-4fc0-a6b4-f897e605cf57computerMedium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\93b684ec-0770-4f07-b10c-f9d08c788f47mac.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\93b684ec-0770-4f07-b10c-f9d08c788f47mac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\93fb0128-9201-4268-9892-c7fd7b9abd90hapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\93fb0128-9201-4268-9892-c7fd7b9abd90hapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\97e7185f-7066-4bc5-a76f-9b57303c6da6hapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\97e7185f-7066-4bc5-a76f-9b57303c6da6hapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\99b40a32-d58f-48b3-bf3d-2b7115d208ffhapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\99b40a32-d58f-48b3-bf3d-2b7115d208ffhapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\9a33eff6-cd91-4507-a6ae-9a96fbcad3b7hapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\9a33eff6-cd91-4507-a6ae-9a96fbcad3b7hapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\9dd126b4-d334-41e8-aacf-c3893becd40ehapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\9dd126b4-d334-41e8-aacf-c3893becd40ehapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\a0eb6e5b-3d3f-424b-8b00-74f665ea3fc3hapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\a0eb6e5b-3d3f-424b-8b00-74f665ea3fc3hapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\b18b4f6e-e9ae-49d0-ad87-e07c22bfcb3dhapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\b18b4f6e-e9ae-49d0-ad87-e07c22bfcb3dhapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\ba19b9bc-517b-4a80-8664-983c9bfae3e4photo4.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\ba19b9bc-517b-4a80-8664-983c9bfae3e4photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\ba5f8b3b-7497-4df4-8ccb-f01f709aac1acomputerMedium.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\ba5f8b3b-7497-4df4-8ccb-f01f709aac1acomputerMedium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\c177c94a-c6ea-4543-bd3c-83c41baf54c5computerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\c177c94a-c6ea-4543-bd3c-83c41baf54c5computerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\c90e95f8-3f4f-4b60-9e80-c5171281c4a8photo4.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\c90e95f8-3f4f-4b60-9e80-c5171281c4a8photo4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\ca5c1da5-5166-4cf7-8038-95614c654ef3hapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\ca5c1da5-5166-4cf7-8038-95614c654ef3hapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\ca6eb159-0b91-4947-8667-379bee7aab2ahapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\ca6eb159-0b91-4947-8667-379bee7aab2ahapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\cf7c64b3-cd2e-469b-b67f-7a58cde71b29hapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\cf7c64b3-cd2e-469b-b67f-7a58cde71b29hapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\d7d52523-8116-4204-8827-2fc82de988d6macSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\d7d52523-8116-4204-8827-2fc82de988d6macSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\d84e86d5-9b3b-4754-894a-3c171230dd7ehapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\d84e86d5-9b3b-4754-894a-3c171230dd7ehapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\d971e652-9f38-474c-bd8d-4877ab730918computerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\d971e652-9f38-474c-bd8d-4877ab730918computerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\de0eeffb-e487-4d09-aa1c-7ee3cae4588ecomputerSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\de0eeffb-e487-4d09-aa1c-7ee3cae4588ecomputerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\e9dfcb49-bfce-4fcc-9a9f-cc3964b55897macMedium.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\e9dfcb49-bfce-4fcc-9a9f-cc3964b55897macMedium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\ea4d6fb9-f57e-4a72-941e-dc0c0daf1a7ahapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\ea4d6fb9-f57e-4a72-941e-dc0c0daf1a7ahapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\efa62691-f827-4380-88e6-e908e7b13c90macSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\efa62691-f827-4380-88e6-e908e7b13c90macSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\f730fc8c-02e0-4350-9498-3c79eb669c91hapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\f730fc8c-02e0-4350-9498-3c79eb669c91hapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\f8f3c7e4-b281-40c1-a49f-2f3d04568589hapyNewYear.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\f8f3c7e4-b281-40c1-a49f-2f3d04568589hapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\fb9917e4-b9f9-459b-8002-5c9a86e91069macSmall.jpg",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\fb9917e4-b9f9-459b-8002-5c9a86e91069macSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\MedyaKutuphanesi\\fc443f95-1024-4e97-900b-341a630203daOrsaSoft.png",
+      "PackagePath": "staticwebassets\\MedyaKutuphanesi\\fc443f95-1024-4e97-900b-341a630203daOrsaSoft.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\Photo\\OrsaSoft.png",
+      "PackagePath": "staticwebassets\\Photo\\OrsaSoft.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\Photo\\OrsaSoftMedium.png",
+      "PackagePath": "staticwebassets\\Photo\\OrsaSoftMedium.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\Photo\\OrsaSoftSmall.png",
+      "PackagePath": "staticwebassets\\Photo\\OrsaSoftSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\Photo\\computer.jpg",
+      "PackagePath": "staticwebassets\\Photo\\computer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\Photo\\computerMedium.jpg",
+      "PackagePath": "staticwebassets\\Photo\\computerMedium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\Photo\\computerSmall.jpg",
+      "PackagePath": "staticwebassets\\Photo\\computerSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\Photo\\hapyNewYear.png",
+      "PackagePath": "staticwebassets\\Photo\\hapyNewYear.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\Photo\\hapyNewYearMedium.png",
+      "PackagePath": "staticwebassets\\Photo\\hapyNewYearMedium.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\Photo\\hapyNewYearSmall.png",
+      "PackagePath": "staticwebassets\\Photo\\hapyNewYearSmall.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\Photo\\mac.jpg",
+      "PackagePath": "staticwebassets\\Photo\\mac.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\Photo\\macMedium.jpg",
+      "PackagePath": "staticwebassets\\Photo\\macMedium.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\Photo\\macSmall.jpg",
+      "PackagePath": "staticwebassets\\Photo\\macSmall.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\js\\Dropdowns.js",
+      "PackagePath": "staticwebassets\\js\\Dropdowns.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\js\\EditPage.js",
+      "PackagePath": "staticwebassets\\js\\EditPage.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\js\\Personel.js",
+      "PackagePath": "staticwebassets\\js\\Personel.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\js\\PersonelList.js",
+      "PackagePath": "staticwebassets\\js\\PersonelList.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\js\\school.js",
+      "PackagePath": "staticwebassets\\js\\school.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\js\\schoolEdit.js",
+      "PackagePath": "staticwebassets\\js\\schoolEdit.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\OrsaSoft\\PersonelKayit\\PersonelKayitWeb\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PersonelKayitWeb.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PersonelKayitWeb.props",
+      "PackagePath": "build\\PersonelKayitWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PersonelKayitWeb.props",
+      "PackagePath": "buildMultiTargeting\\PersonelKayitWeb.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PersonelKayitWeb.props",
+      "PackagePath": "buildTransitive\\PersonelKayitWeb.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

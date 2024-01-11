@@ -1,0 +1,64 @@
+html {
+  font-size: 16px;
+}
+
+@media (min-width: 425px) {
+    html {
+        font-size: 0.625rem;
+    }
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 0.875rem;
+    }
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+#previewArea {
+    border: 2px dashed #ccc;
+    padding: 20px;
+    text-align: center;
+}
+
+#previewImage {
+    max-width: 100%;
+    max-height: 300px;
+}
+
+#defaultText {
+    display: block;
+}
+.images {
+    width: 100%;
+    height: auto;
+}
+.contact {
+    list-style-type: none;
+}
+
+@media screen and (max-width: 577px) {
+    .image-two {
+        width: 100%;
+        height: auto;
+    }
+}
+
+.form-school{
+    margin-left: 17%;
+}
+
+@media screen and (max-width:604px){
+    .form-school {
+        margin-left: 1%;
+        margin-right: 1%;
+    }
+}
